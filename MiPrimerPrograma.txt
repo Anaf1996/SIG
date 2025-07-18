@@ -1,0 +1,11 @@
+public class MiPrimerPrograma{
+  public static void main (String []args){
+    int valor=0
+    String mensaje="Hola mundo, soy Ana";
+    if(valor1>0){
+           System.ou.println("El valor es mayor a cero");
+    }else{
+           System.ou.println("El valor es menor a cero");
+}
+}
+}
