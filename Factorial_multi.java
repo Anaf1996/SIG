@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class Factorial_multi{
 	public static int factorial(int a){
 		if (a>1){
